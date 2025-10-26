@@ -32,8 +32,23 @@
 
 .sidebar-toggle {
   background-color: #112D68;
+  padding: 20px;
 }
 
 .sidebar-toggle span {
   background-color: var(--theme-color, white);
+}
+
+.sidebar-toggle:hover .sidebar-toggle-button {
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .sidebar-toggle {
+    padding: 20px;
+  }
+  body.close .sidebar-toggle {
+    padding: 20px;
+    background-color: #112D68;
+  }
 }

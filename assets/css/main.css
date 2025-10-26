@@ -35,7 +35,7 @@
   background-color: #112D68;
 }
 
-a:hover {
+.grid-button a:hover {
   cursor: pointer;
 
   border: 1px solid #112D68;

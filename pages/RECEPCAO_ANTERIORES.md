@@ -4,11 +4,11 @@ Esta página funciona como um arquivo histórico oficial da Recepção aos Aluno
 
 > Downloads
 
-\> RPG 2024.2
+\> [RPG 2024.2](https://github.com/LeoSilvaGomes/recepcao_ime_usp/raw/refs/heads/main/assets/last_editions/2024.2.zip)
 
-\> RPG 2023.2
+\> [RPG 2023.2](https://github.com/LeoSilvaGomes/recepcao_ime_usp/raw/refs/heads/main/assets/last_editions/2023.2.zip)
 
-\> RPG 2023.1
+\> [RPG 2023.1](https://github.com/LeoSilvaGomes/recepcao_ime_usp/raw/refs/heads/main/assets/last_editions/2023.1.zip)
 
 Aos que quiserem ter acesso aos materiais de recepções anteriores, entre em contato por e-mail ([rpg@ime.usp.br](rpg@ime.usp.br)). 
 Faça parte da Comissão nos próximos semestres.

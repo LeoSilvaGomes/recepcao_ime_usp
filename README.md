@@ -1,3 +1,21 @@
+<div class="image-home" id="cover">
+  <img src="./assets/images/arquimede.png"/>
+  <div>
+    <h2>Recepção da Pós Graduação</h2>
+    <h3>IME USP</h3>
+  </div>
+  <img src="./assets/images/dado.png"/>
+</div>
+
+<div class="image-home-mobile" id="cover">
+  <img src="./assets/images/arquimede-mobile.png"/>
+  <div>
+    <h2>Recepção da Pós Graduação</h2>
+    <h3>IME USP</h3>
+  </div>
+  <img src="./assets/images/dado-mobile.png"/>
+</div>
+
 Olá! Esta página é dedicada à Recepção da Pós-Graduação do IME-USP.
 
 Aqui divulgamos as informações relacionadas à Recepção de Pós Graduação (RPG), assim como alguns materiais que distribuímos no dia da recepção.

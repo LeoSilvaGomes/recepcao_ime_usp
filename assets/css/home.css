@@ -37,6 +37,17 @@
   margin: 0px 15px;
 }
 
+.images-home {
+  display: flex;
+  justify-content: center;
+}
+
+.images-home img {
+  max-width: 500px;
+  width: -webkit-fill-available;
+  
+  border: 10px solid #112D68;
+}
 
 @media screen and (max-width: 1000px) {
   .image-home {

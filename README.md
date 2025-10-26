@@ -36,7 +36,11 @@ O objetivo da Recepção é integrar e informar as pessoas que ingressam na pós
 
 Acreditamos que é crucial que as pessoas se sintam bem no seu ambiente de trabalho e estudo e que para isso, é necessário se sentir pertencente ao espaço e conhecer as pessoas que frequentam o mesmo lugar. É muito mais confortável se movimentar dentro de um espaço onde conhecemos as regras e sabemos o que é esperado.
 
-Aprender, estudar e pesquisar fica mais fácil quando conseguimos compartilhar com outras pessoas, afinal a pesquisar é uma atividade coletiva e não individual. Há muitas iniciativas dentro do IME que valem à pena conhecer, e com a Recepção tentamos mostrar algumas delas para vocês. E como um dia não é o suficiente para mostrar esse universo novo, organizamos outras atividades de integração ao longo dos semestres, para explorar o IME, a USP e São Paulo. o.
+Aprender, estudar e pesquisar fica mais fácil quando conseguimos compartilhar com outras pessoas, afinal a pesquisar é uma atividade coletiva e não individual. Há muitas iniciativas dentro do IME que valem à pena conhecer, e com a Recepção tentamos mostrar algumas delas para vocês. E como um dia não é o suficiente para mostrar esse universo novo, organizamos outras atividades de integração ao longo dos semestres, para explorar o IME, a USP e São Paulo.
+
+<div class="images-home">
+  <img src="./assets/images/sala1.jpg"/>
+</div>
 
 > Quem somos nós?
 
@@ -53,3 +57,7 @@ A Recepção organizada por estudantes surgiu em uma tentativa de unir as inicia
 A primeira Recepção de Pós-Graduação unificada ocorreu no primeiro semestre de 2013. A partir desse ponto, e até o segundo semestre de 2016, o formato da Recepção era relativamente enxuto, o evento acontecia durante o horário de almoço e, dessa forma, tinha menos variedade nas atividades. Havia a distribuição de canecas e o tradicional lanche com sanduíches de metro, naquela época absolutamente vital por conta do horário.
 
 A partir do primeiro semestre de 2017, a comissão foi reforçada pelo ingresso de um novo grupo de estudantes, um novo conjunto de ideias, e alguma ousadia como acompanhamento. Assim, a Recepção cresceu consideravelmente, o evento passou a decorrer por uma tarde, após o almoço, de tal forma que possibilitou que a Recepção comportasse, entre outras, breves introduções por parte das muitas iniciativas que existem no IME e apresentações artísticas.
+
+<div class="images-home">
+  <img src="./assets/images/sala2.jpg"/>
+</div>

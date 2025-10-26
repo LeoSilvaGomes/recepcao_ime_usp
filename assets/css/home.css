@@ -68,6 +68,7 @@
   }
 
   .image-home-mobile div {
-    height: fit-content;
+    height: fit-content !important;
+    width: fit-content !important;
   }
 }

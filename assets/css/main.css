@@ -1,0 +1,45 @@
+.anchor span {
+    color: #112D68;
+}
+
+.markdown-section blockquote {
+  border-left: 4px solid var(--theme-color, #112D68);
+}
+
+.markdown-section a {
+    color: #112D68;
+    color: var(--theme-color, #112D68);
+    font-weight: 600;
+}
+
+.grid-button {
+  display: grid;
+  grid-gap: 10px 20px;
+  grid-auto-flow: row;
+  grid-template-columns: repeat(auto-fill, minmax(175px, 1fr));
+  margin-bottom:  10px;
+}
+
+.grid-button a {  
+  display: flex;
+  justify-content: center;
+
+  border: 1px solid white;
+  border-radius: 8px;
+  padding: 12px 10px;
+    
+  color: white;
+  font-size: 16px;
+  white-space: nowrap;
+  text-decoration: none;
+  background-color: #112D68;
+}
+
+a:hover {
+  cursor: pointer;
+
+  border: 1px solid #112D68;
+  background-color: white;
+
+  color: #112D68;
+}

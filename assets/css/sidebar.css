@@ -1,0 +1,39 @@
+.sidebar {
+  background-color: #112D68;
+  font-size: 14px;
+  border: none;
+}
+
+.sidebar>h1 {
+  text-align: left;
+}
+
+.sidebar>h1 a {
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.sidebar ul {
+    margin: 0 0 0 20px;
+}
+
+.sidebar ul li a {
+  color: white
+}
+
+.sidebar ul li.active>a {
+  background-color: white;
+  color: #112D68;
+  border: none;
+  padding: 5px 15px;
+}
+
+.sidebar-toggle {
+  background-color: #112D68;
+}
+
+.sidebar-toggle span {
+  background-color: var(--theme-color, white);
+}

@@ -1,10 +1,8 @@
-# Recepção de Pós-Graduação - IME USP
-
 Olá! Esta página é dedicada à Recepção da Pós-Graduação do IME-USP.
 
 Aqui divulgamos as informações relacionadas à Recepção de Pós Graduação (RPG), assim como alguns materiais que distribuímos no dia da recepção.
 
-A recepção para ingressantes do segundo semestre de 2023 ocorrerá presencialmente no dia 8 de Agosto de 2023, a partir das 10:15, no Instituto de Matemática e Estatística - USP, Bloco B, sala B05 ([ver mapa](https://www.google.com/maps/place/Instituto+de+Matem%C3%A1tica+e+Estat%C3%ADstica+da+Universidade+de+S%C3%A3o+Paulo+(IME-USP)/@-23.5593975,-46.7344131,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce5614445ea63f:0x81bb971c3a8f0fcf!8m2!3d-23.5594024!4d-46.7318382!16s%2Fg%2F1214s356?entry=tts&shorturl=1)).
+<!-- A recepção para ingressantes do segundo semestre de 2023 ocorrerá presencialmente no dia 8 de Agosto de 2023, a partir das 10:15, no Instituto de Matemática e Estatística - USP, Bloco B, sala B05 ([ver mapa](https://www.google.com/maps/place/Instituto+de+Matem%C3%A1tica+e+Estat%C3%ADstica+da+Universidade+de+S%C3%A3o+Paulo+(IME-USP)/@-23.5593975,-46.7344131,17z/data=!3m1!4b1!4m6!3m5!1s0x94ce5614445ea63f:0x81bb971c3a8f0fcf!8m2!3d-23.5594024!4d-46.7318382!16s%2Fg%2F1214s356?entry=tts&shorturl=1)). -->
 
 Se você for ingressante, entre em contato com rpg@ime.usp.br para entrar no grupo do WhatsApp e receber mais informações.
 
